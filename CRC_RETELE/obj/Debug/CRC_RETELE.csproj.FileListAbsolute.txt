@@ -1,0 +1,7 @@
+C:\Users\Ioana Miruna\source\repos\CRC_RETELE\bin\Debug\CRC_RETELE.exe.config
+C:\Users\Ioana Miruna\source\repos\CRC_RETELE\bin\Debug\CRC_RETELE.exe
+C:\Users\Ioana Miruna\source\repos\CRC_RETELE\bin\Debug\CRC_RETELE.pdb
+C:\Users\Ioana Miruna\source\repos\CRC_RETELE\obj\Debug\CRC_RETELE.csprojAssemblyReference.cache
+C:\Users\Ioana Miruna\source\repos\CRC_RETELE\obj\Debug\CRC_RETELE.csproj.CoreCompileInputs.cache
+C:\Users\Ioana Miruna\source\repos\CRC_RETELE\obj\Debug\CRC_RETELE.exe
+C:\Users\Ioana Miruna\source\repos\CRC_RETELE\obj\Debug\CRC_RETELE.pdb
